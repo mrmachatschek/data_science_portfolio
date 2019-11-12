@@ -3,10 +3,10 @@ This repository contains several data science projects which I worked on or curr
 
 ## Exploratory analysis
 ### Project 1: Analysis of investment oppurtunities in the tourism sector
-**language:** Python
-**main libraries used:** Pandas, Bokeh
-**context:** university group project
-**contributors:** Nicolae-Radu Homorozan (M20190217@novaims.unl.pt), Francisco Guerreiro Galla Goucha Jorge (M20190863@novaims.unl.pt), Wenyi Liang (M20190551@novaims.unl.pt)
+**language:** Python<br/>
+**main libraries used:** Pandas, Bokeh<br/>
+**context:** university group project<br/>
+**contributors:** Nicolae-Radu Homorozan (M20190217@novaims.unl.pt), Francisco Guerreiro Galla Goucha Jorge (M20190863@novaims.unl.pt), Wenyi Liang (M20190551@novaims.unl.pt)<br/>
 
 - In this project we analyzed tourism-related data for a set of worldwide countries, aiming to find the optimal choice for an investment in this sector. 
 - From a set of 186 countries and data about international arrivals and toursim receipts we used the method described by the Modern Portfolio Theory (MPT) to identify the Efficient Frontier of the top 10 countries which yield the highest return for a given risk. 
