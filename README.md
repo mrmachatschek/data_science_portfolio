@@ -21,10 +21,10 @@ This repository contains several data science projects which I worked on or curr
 **context:** university group project<br/>
 **contributors:** <br/>
 **files:**
-...*outlier_variations.py*: Comparing different outlier thresholds
-...*algorithm_selection.py*: Comparing different algorithms
-...*main.py*: Preprossing, feature engineering, applying final algorithm
-...*profiling.py*: Profiling of final clusters
+...*outlier_variations.py*: Comparing different outlier thresholds..
+...*algorithm_selection.py*: Comparing different algorithms..
+...*main.py*: Preprossing, feature engineering, applying final algorithm..
+...*profiling.py*: Profiling of final clusters..
 <br/>
 - In this project we conducted a cluster analysis for a fictional insurance company, aiming to find a suitable customer segementation for personalized marketing campaigns. 
 - The dataset consists of 10.000 customers with information about their salary, birth year, monetary value, claims rate and premiums per LOB.
