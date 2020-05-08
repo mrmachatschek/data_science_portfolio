@@ -12,7 +12,7 @@ This repository contains several data science projects which I worked on or curr
 - In this project we created a model to predict bookings cancellation for a fictional Hotel company.
 - The dataset consists of 80.000 bookings with information about the customer, relevant dates, booking extras and distribution.
 - After preprocsseing and exploring the dataset we applied the following algorithms: Logistic Regression, Random Forest, Gradient Boosting, MLP and XGBoost
-- Eventually, we choose XGBoost as our final model and performed hyperparameter tuning with optuna. Besides, to better understand the model we visualized the feature importance with the help of the library shap. 
+- Eventually, we choose XGBoost as our final model and performed hyperparameter tuning with Optuna. Besides, to better understand the model we visualized the feature importance with the help of the library Shap. 
 
 
 ## Unsupervised Learning 
